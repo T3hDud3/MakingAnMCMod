@@ -1,0 +1,18 @@
+[
+{
+"modid": "MakingAnMCMod",
+"name": "Making An MC Mod",
+"description": "Creating a mod =D",
+"version": "1.0",
+"mcversion": "1.7.2",
+"logoFile": "",
+"url": "",
+"authors": [
+  "T3hDud3"
+],
+"credits": "credits",
+"parent": "",
+"screenshots": [],
+"dependencies": ["mod_MinecraftForge"]
+}
+]
