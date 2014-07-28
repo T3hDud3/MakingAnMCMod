@@ -23,7 +23,7 @@ archivesBaseName = "MakingAnMCMod"
 
 minecraft {
     version = "1.7.2-10.12.0.1012"
-    assetDir = "idea/assets"
+    assetDir = "eclipse/assets"
 }
 processResources
 {
