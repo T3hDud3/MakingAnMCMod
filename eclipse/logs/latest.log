@@ -1,22 +1,12 @@
-[15:04:46] [Server thread/INFO]: Starting minecraft server version 1.7.2
-[15:04:46] [Server thread/WARN]: To start the server with more ram, launch it as "java -Xmx1024M -Xms1024M -jar minecraft_server.jar"
-[15:04:51] [Server thread/INFO]: Loading properties
-[15:04:51] [Server thread/WARN]: server.properties does not exist
-[15:04:51] [Server thread/INFO]: Generating new properties file
-[15:04:51] [Server thread/INFO]: Default game type: SURVIVAL
-[15:04:51] [Server thread/INFO]: Generating keypair
-[15:04:51] [Server thread/INFO]: Starting Minecraft server on *:25565
-[15:04:51] [Server thread/WARN]: Failed to load operators list: java.io.FileNotFoundException: .\ops.txt (The system cannot find the file specified)
-[15:04:51] [Server thread/WARN]: Failed to load white-list: java.io.FileNotFoundException: .\white-list.txt (The system cannot find the file specified)
-[15:04:51] [Server thread/INFO]: Preparing level "world"
-[15:04:51] [Server thread/INFO]: Preparing start region for level 0
-[15:04:52] [Server thread/INFO]: Done (0.491s)! For help, type "help" or "?"
-[15:04:52] [Server thread/INFO]: Stopping server
-[15:04:52] [Server thread/INFO]: Saving players
-[15:04:52] [Server thread/INFO]: Saving worlds
-[15:04:52] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
-[15:04:52] [Server thread/INFO]: Saving chunks for level 'world'/Nether
-[15:04:52] [Server thread/INFO]: Saving chunks for level 'world'/The End
-[15:04:52] [Server Shutdown Thread/INFO]: Stopping server
-[15:04:52] [Server Shutdown Thread/INFO]: Saving players
-[15:04:52] [Server Shutdown Thread/INFO]: Saving worlds
+[20:34:18] [main/INFO]: Setting user: ForgeDevName
+[20:34:19] [Client thread/INFO]: LWJGL Version: 2.9.1
+[20:34:19] [Client thread/ERROR]: Couldn't initialize twitch stream
+[20:34:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Making An MC Mod
+[20:34:23] [Sound Library Loader/INFO]: Sound engine started
+[20:34:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:34:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:34:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Making An MC Mod
+[20:34:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[20:34:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[20:34:25] [Sound Library Loader/INFO]: Sound engine started
+[20:35:15] [Client thread/INFO]: Stopping!
