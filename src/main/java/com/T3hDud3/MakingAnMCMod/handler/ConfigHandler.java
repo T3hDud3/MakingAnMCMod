@@ -17,6 +17,7 @@ public class ConfigHandler {
     public static void init(File configFile) {
         if (configFile == null) {
             config = new Configuration(configFile);
+            loadConfiguration();
         }
     }
 
@@ -27,7 +28,7 @@ public class ConfigHandler {
         }
     }
 
-    public void loadConfiguration() {
+    private static void loadConfiguration() {
         ExValue = config.getBoolean("ExValue", config.CATEGORY_GENERAL, false, "This is an example boolean.");
 
         if (config.hasChanged()) {

@@ -3,6 +3,8 @@ package com.T3hDud3.MakingAnMCMod;
 import com.T3hDud3.MakingAnMCMod.handler.ConfigHandler;
 import com.T3hDud3.MakingAnMCMod.proxy.IProxy;
 import com.T3hDud3.MakingAnMCMod.ref.ref;
+import com.T3hDud3.MakingAnMCMod.util.LogHelper;
+import cpw.mods.fml.common.FMLCommonHandler;
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.SidedProxy;
 import cpw.mods.fml.common.event.FMLInitializationEvent;
@@ -22,17 +24,19 @@ public class MakingAnMCMod {
     public void preInit(FMLPreInitializationEvent event)
     {
         ConfigHandler.init(event.getSuggestedConfigurationFile());
+        FMLCommonHandler.instance().bus().register(new ConfigHandler());
+        LogHelper.info("Pre Initialization Complete.");
     }
 
     @Mod.EventHandler
     public void init(FMLInitializationEvent event)
     {
-
+        LogHelper.info("Initialization Complete.");
     }
 
     @Mod.EventHandler
     public void init(FMLPostInitializationEvent event)
     {
-
+        LogHelper.info("Post Initialization Complete.");
     }
 }

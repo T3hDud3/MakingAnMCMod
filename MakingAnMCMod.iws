@@ -5,1166 +5,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6974e215-2cee-4a91-bb20-7dbd48125ee1" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/handler/ConfigHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/client/gui/GuiFactory.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/client/gui/ModGuiConfig.java" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\READ_ME_I_AM_VERY_IMPORTANT.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\icons\icon_16x16.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\icons\icon_32x32.png" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\icons\minecraft.icns" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\af_ZA.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ar_SA.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\bg_BG.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ca_ES.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\cs_CZ.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\cy_GB.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\da_DK.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\de_DE.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\el_GR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\en_AU.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\en_CA.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\en_GB.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\en_PT.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\eo_UY.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\es_AR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\es_ES.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\es_MX.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\es_UY.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\es_VE.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\et_EE.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\eu_ES.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\fa_IR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\fi_FI.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\fil_PH.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\fr_CA.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\fr_FR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ga_IE.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\gl_ES.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\he_IL.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\hi_IN.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\hr_HR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\hu_HU.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\hy_AM.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\id_ID.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\is_IS.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\it_IT.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ja_JP.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ka_GE.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ko_KR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\kw_GB.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\la_LA.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\lb_LU.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\lt_LT.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\lv_LV.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ms_MY.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\mt_MT.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\nl_NL.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\nn_NO.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\no_NO.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\oc_FR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\pl_PL.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\pt_BR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\pt_PT.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\qya_AA.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ro_RO.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\ru_RU.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\sk_SK.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\sl_SI.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\sr_SP.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\sv_SE.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\th_TH.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\tlh_AA.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\tr_TR.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\uk_UA.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\vi_VN.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\zh_CN.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\lang\zh_TW.lang" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\calm1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\calm2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\calm3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\hal1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\hal2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\hal3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\hal4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\nuance1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\nuance2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\piano1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\piano2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\music\piano3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\pack.mcmeta" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\11.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\13.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\blocks.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\cat.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\chirp.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\far.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\mall.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\mellohi.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\stal.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\strad.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\wait.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\records\ward.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave10.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave11.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave12.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave13.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave7.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave8.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\cave\cave9.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\weather\rain1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\weather\rain2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\weather\rain3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\weather\rain4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\weather\thunder1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\weather\thunder2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\ambient\weather\thunder3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\damage\fallbig.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\damage\fallsmall.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\damage\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\damage\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\damage\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\cloth1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\cloth2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\cloth3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\cloth4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\grass1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\grass2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\grass3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\grass4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\gravel1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\gravel2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\gravel3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\gravel4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\sand1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\sand2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\sand3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\sand4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\snow1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\snow2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\snow3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\snow4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\stone1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\stone2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\stone3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\stone4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\wood1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\wood2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\wood3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\dig\wood4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fire\fire.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fire\ignite.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fireworks\blast1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fireworks\blast_far1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fireworks\largeBlast1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fireworks\largeBlast_far1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fireworks\launch1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fireworks\twinkle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\fireworks\twinkle_far1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\lava.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\lavapop.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\splash.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\splash2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\swim1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\swim2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\swim3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\swim4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\liquid\water.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\minecart\base.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\minecart\inside.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\hurt4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\idle4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\loop.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\bat\takeoff.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\breathe1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\breathe2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\breathe3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\breathe4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\blaze\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\hiss1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\hiss2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\hiss3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\hitt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\hitt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\hitt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\meow1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\meow2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\meow3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\meow4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\purr1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\purr2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\purr3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\purreow1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cat\purreow2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\chicken\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\chicken\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\chicken\plop.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\chicken\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\chicken\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\chicken\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\chicken\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\chicken\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\say4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\cow\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\creeper\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\creeper\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\creeper\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\creeper\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\creeper\say4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\end.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\growl1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\growl2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\growl3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\growl4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\wings1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\wings2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\wings3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\wings4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\wings5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\enderdragon\wings6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\idle4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\idle5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\portal.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\portal2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\scream1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\scream2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\scream3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\scream4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\endermen\stare.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\affectionate_scream.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\charge.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\fireball4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\moan1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\moan2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\moan3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\moan4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\moan5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\moan6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\moan7.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\scream1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\scream2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\scream3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\scream4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\ghast\scream5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\angry1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\armor.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\breathe1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\breathe2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\breathe3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\angry1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\angry2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\donkey\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\gallop1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\gallop2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\gallop3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\gallop4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\jump.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\land.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\leather.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\skeleton\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\skeleton\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\skeleton\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\skeleton\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\skeleton\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\skeleton\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\skeleton\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\skeleton\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\soft1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\soft2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\soft3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\soft4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\soft5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\soft6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\wood1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\wood2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\wood3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\wood4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\wood5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\wood6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\zombie\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\zombie\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\zombie\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\zombie\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\zombie\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\zombie\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\zombie\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\horse\zombie\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\throw.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\walk1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\walk2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\walk3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\irongolem\walk4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\big1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\big2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\big3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\big4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\jump1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\jump2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\jump3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\jump4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\small1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\small2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\small3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\small4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\magmacube\small5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\pig\step5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\shear.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\sheep\step5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\kill.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\say4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\silverfish\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\hurt4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\skeleton\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\attack1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\attack2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\big1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\big2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\big3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\big4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\small1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\small2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\small3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\small4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\slime\small5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\say4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\spider\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\haggle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\haggle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\haggle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\no1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\no2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\no3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\yes1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\yes2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\villager\yes3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\hurt4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\idle4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\shoot.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wither\spawn.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\bark1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\bark2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\bark3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\growl1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\growl2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\growl3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\howl1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\howl2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\panting.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\shake.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\step5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\wolf\whine.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\infect.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\metal1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\metal2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\metal3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\remedy.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\step5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\unfect.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\wood1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\wood2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\wood3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\wood4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombie\woodbreak.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpig1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpig2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpig3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpig4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpigangry1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpigangry2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpigangry3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpigangry4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpigdeath.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpighurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\mob\zombiepig\zpighurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\note\bass.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\note\bassattack.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\note\bd.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\note\harp.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\note\hat.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\note\pling.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\note\snare.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\portal\portal.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\portal\travel.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\portal\trigger.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\anvil_break.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\anvil_land.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\anvil_use.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\bow.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\bowhit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\bowhit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\bowhit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\bowhit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\break.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\breath.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\burp.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\chestclosed.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\chestopen.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\classic_hurt.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\click.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\door_close.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\door_open.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\drink.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\eat1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\eat2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\eat3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\explode1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\explode2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\explode3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\explode4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\fizz.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\fuse.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\glass1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\glass2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\glass3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\levelup.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\orb.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\pop.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\splash.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\successful_hit.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\random\wood_click.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\cloth1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\cloth2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\cloth3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\cloth4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\grass1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\grass2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\grass3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\grass4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\grass5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\grass6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\gravel1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\gravel2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\gravel3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\gravel4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\ladder1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\ladder2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\ladder3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\ladder4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\ladder5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\sand1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\sand2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\sand3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\sand4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\sand5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\snow1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\snow2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\snow3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\snow4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\stone1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\stone2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\stone3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\stone4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\stone5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\stone6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\wood1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\wood2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\wood3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\wood4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\wood5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\step\wood6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\tile\piston\in.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sound\tile\piston\out.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds.json" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave10.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave11.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave12.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave13.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave7.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave8.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\cave\cave9.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\weather\rain1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\weather\rain2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\weather\rain3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\weather\rain4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\weather\thunder1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\weather\thunder2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\ambient\weather\thunder3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\damage\fallbig.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\damage\fallsmall.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\damage\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\damage\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\damage\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\cloth1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\cloth2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\cloth3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\cloth4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\grass1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\grass2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\grass3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\grass4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\gravel1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\gravel2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\gravel3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\gravel4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\sand1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\sand2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\sand3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\sand4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\snow1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\snow2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\snow3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\snow4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\stone1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\stone2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\stone3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\stone4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\wood1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\wood2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\wood3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\dig\wood4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fire\fire.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fire\ignite.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fireworks\blast1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fireworks\blast_far1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fireworks\largeBlast1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fireworks\largeBlast_far1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fireworks\launch1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fireworks\twinkle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\fireworks\twinkle_far1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\lava.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\lavapop.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\splash.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\splash2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\swim1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\swim2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\swim3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\swim4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\liquid\water.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\minecart\base.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\minecart\inside.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\hurt4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\idle4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\loop.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\bat\takeoff.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\breathe1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\breathe2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\breathe3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\breathe4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\blaze\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\hiss1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\hiss2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\hiss3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\hitt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\hitt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\hitt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\meow1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\meow2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\meow3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\meow4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\purr1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\purr2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\purr3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\purreow1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cat\purreow2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\chicken\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\chicken\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\chicken\plop.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\chicken\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\chicken\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\chicken\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\chicken\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\chicken\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\say4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\cow\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\creeper\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\creeper\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\creeper\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\creeper\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\creeper\say4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\end.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\growl1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\growl2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\growl3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\growl4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\wings1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\wings2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\wings3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\wings4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\wings5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\enderdragon\wings6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\idle4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\idle5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\portal.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\portal2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\scream1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\scream2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\scream3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\scream4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\endermen\stare.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\affectionate_scream.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\charge.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\fireball4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\moan1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\moan2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\moan3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\moan4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\moan5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\moan6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\moan7.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\scream1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\scream2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\scream3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\scream4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\ghast\scream5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\angry1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\armor.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\breathe1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\breathe2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\breathe3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\angry1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\angry2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\donkey\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\gallop1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\gallop2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\gallop3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\gallop4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\jump.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\land.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\leather.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\skeleton\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\skeleton\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\skeleton\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\skeleton\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\skeleton\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\skeleton\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\skeleton\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\skeleton\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\soft1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\soft2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\soft3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\soft4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\soft5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\soft6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\wood1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\wood2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\wood3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\wood4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\wood5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\wood6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\zombie\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\zombie\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\zombie\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\zombie\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\zombie\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\zombie\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\zombie\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\horse\zombie\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\throw.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\walk1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\walk2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\walk3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\irongolem\walk4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\big1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\big2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\big3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\big4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\jump1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\jump2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\jump3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\jump4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\small1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\small2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\small3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\small4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\magmacube\small5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\pig\step5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\shear.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\sheep\step5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\kill.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\say4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\silverfish\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\hurt4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\skeleton\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\attack1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\attack2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\big1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\big2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\big3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\big4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\small1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\small2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\small3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\small4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\slime\small5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\say4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\spider\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\haggle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\haggle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\haggle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\hit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\hit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\hit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\hit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\no1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\no2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\no3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\yes1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\yes2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\villager\yes3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\hurt4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\idle1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\idle2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\idle3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\idle4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\shoot.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wither\spawn.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\bark1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\bark2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\bark3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\growl1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\growl2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\growl3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\howl1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\howl2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\hurt3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\panting.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\shake.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\step5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\wolf\whine.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\death.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\hurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\hurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\infect.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\metal1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\metal2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\metal3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\remedy.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\say1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\say2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\say3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\step1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\step2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\step3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\step4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\step5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\unfect.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\wood1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\wood2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\wood3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\wood4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombie\woodbreak.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpig1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpig2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpig3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpig4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpigangry1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpigangry2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpigangry3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpigangry4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpigdeath.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpighurt1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\mob\zombiepig\zpighurt2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\calm1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\calm2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\calm3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\creative\creative1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\creative\creative2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\creative\creative3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\creative\creative4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\creative\creative5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\creative\creative6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\end\boss.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\end\credits.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\end\end.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\hal1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\hal2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\hal3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\hal4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\nether\nether1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\nether\nether2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\nether\nether3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\nether\nether4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\nuance1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\nuance2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\piano1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\piano2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\game\piano3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\menu\menu1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\menu\menu2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\menu\menu3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\music\menu\menu4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\note\bass.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\note\bassattack.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\note\bd.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\note\harp.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\note\hat.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\note\pling.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\note\snare.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\portal\portal.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\portal\travel.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\portal\trigger.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\anvil_break.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\anvil_land.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\anvil_use.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\bow.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\bowhit1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\bowhit2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\bowhit3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\bowhit4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\break.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\breath.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\burp.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\chestclosed.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\chestopen.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\classic_hurt.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\click.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\door_close.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\door_open.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\drink.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\eat1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\eat2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\eat3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\explode1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\explode2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\explode3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\explode4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\fizz.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\fuse.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\glass1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\glass2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\glass3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\levelup.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\orb.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\pop.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\splash.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\successful_hit.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\random\wood_click.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\11.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\13.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\blocks.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\cat.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\chirp.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\far.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\mall.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\mellohi.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\stal.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\strad.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\wait.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\records\ward.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\cloth1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\cloth2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\cloth3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\cloth4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\grass1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\grass2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\grass3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\grass4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\grass5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\grass6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\gravel1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\gravel2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\gravel3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\gravel4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\ladder1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\ladder2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\ladder3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\ladder4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\ladder5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\sand1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\sand2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\sand3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\sand4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\sand5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\snow1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\snow2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\snow3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\snow4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\stone1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\stone2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\stone3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\stone4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\stone5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\stone6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\wood1.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\wood2.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\wood3.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\wood4.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\wood5.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\step\wood6.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\tile\piston\in.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\assets\sounds\tile\piston\out.ogg" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\banned-ips.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\banned-players.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\logs\2014-07-28-4.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\logs\2014-07-28-5.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\logs\2014-07-28-6.log.gz" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\logs\fml-client-3.log" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\ops.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\white-list.txt" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\world\DIM-1\data\villages.dat" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\world\DIM1\data\villages.dat" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\world\data\Mineshaft.dat" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\world\data\villages.dat" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\world\level.dat" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\world\region\r.-1.0.mca" afterPath="" />
-      <change type="DELETED" beforePath="F:\Github Projects\Minecraft\1.7\MakingAnMCMod\eclipse\world\session.lock" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.core.resources/.projects/Minecraft/.location" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-28-1.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-28-1.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-28-2.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-28-2.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/2014-07-28-3.log.gz" afterPath="$PROJECT_DIR$/eclipse/logs/2014-07-28-3.log.gz" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Client.launch" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Client.launch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/proxy/IProxy.java" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/proxy/IProxy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MakingAnMCMod.iml" afterPath="$PROJECT_DIR$/MakingAnMCMod.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MakingAnMCMod.ipr" afterPath="$PROJECT_DIR$/MakingAnMCMod.ipr" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/util/LogHelper.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/item/MAMCMItem.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/resources/mcmod.info" afterPath="$PROJECT_DIR$/src/main/resources/mcmod.info" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/handler/ConfigHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/handler/ConfigHandler.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/MakingAnMCMod.iws" afterPath="$PROJECT_DIR$/MakingAnMCMod.iws" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/MakingAnMCMod.java" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/MakingAnMCMod.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Server.launch" afterPath="$PROJECT_DIR$/eclipse/.metadata/.plugins/org.eclipse.debug.core/.launches/Server.launch" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build.gradle" afterPath="$PROJECT_DIR$/build.gradle" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-1.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-2.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-client-latest.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-junk-earlystartup.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/fml-server-latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/fml-server-latest.log" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/forge.cfg" afterPath="$PROJECT_DIR$/eclipse/config/forge.cfg" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/config/forgeChunkLoading.cfg" afterPath="$PROJECT_DIR$/eclipse/config/forgeChunkLoading.cfg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/logs/latest.log" afterPath="$PROJECT_DIR$/eclipse/logs/latest.log" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/ref/ref.java" afterPath="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/ref/ref.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/eclipse/server.properties" afterPath="$PROJECT_DIR$/eclipse/server.properties" />
     </list>
     <ignored path="MakingAnMCMod.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -1236,9 +88,14 @@
       <file leaf-file-name="MakingAnMCMod.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/MakingAnMCMod.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="646">
-              <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
+              <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+              <folding>
+                <element signature="e#1209#1210#0" expanded="true" />
+                <element signature="e#1267#1268#0" expanded="true" />
+                <element signature="e#1351#1352#0" expanded="true" />
+                <element signature="e#1414#1415#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -1259,7 +116,7 @@
         <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/client/gui/GuiFactory.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
-              <caret line="16" column="33" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="33" />
+              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#401#402#0" expanded="true" />
@@ -1273,21 +130,59 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="LogHelper.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/util/LogHelper.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1102">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#368#369#0" expanded="true" />
+                <element signature="e#406#407#0" expanded="true" />
+                <element signature="e#457#458#0" expanded="true" />
+                <element signature="e#497#498#0" expanded="true" />
+                <element signature="e#548#549#0" expanded="true" />
+                <element signature="e#588#589#0" expanded="true" />
+                <element signature="e#639#640#0" expanded="true" />
+                <element signature="e#679#680#0" expanded="true" />
+                <element signature="e#729#730#0" expanded="true" />
+                <element signature="e#768#769#0" expanded="true" />
+                <element signature="e#817#818#0" expanded="true" />
+                <element signature="e#855#856#0" expanded="true" />
+                <element signature="e#906#907#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#996#997#0" expanded="true" />
+                <element signature="e#1035#1036#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ConfigHandler.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/handler/ConfigHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
-              <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+              <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ref.java" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="MAMCMItem.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/item/MAMCMItem.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.22428331" vertical-offset="0" max-vertical-offset="593">
+              <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ref.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/ref/ref.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.25632378" vertical-offset="0" max-vertical-offset="593">
-              <caret line="8" column="101" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+              <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
               <folding />
             </state>
           </provider>
@@ -1313,11 +208,13 @@
         <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/proxy/IProxy.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/config/ConfigHandler.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/GuiFactory.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/ref/ref.java" />
-        <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/MakingAnMCMod.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/client/gui/GuiFactory.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/client/gui/ModGuiConfig.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/util/LogHelper.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/MakingAnMCMod.java" />
         <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/handler/ConfigHandler.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/ref/ref.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/item/MAMCMItem.java" />
       </list>
     </option>
   </component>
@@ -1463,7 +360,59 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="util" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MakingAnMCMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MakingAnMCMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T3hDud3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MakingAnMCMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="proxy" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MakingAnMCMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MakingAnMCMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageViewModuleNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="com" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="T3hDud3" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="MakingAnMCMod" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="item" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PackageElementNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -1837,7 +786,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="748">
           <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding />
+          <folding>
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1877,7 +831,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="748">
           <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding />
+          <folding>
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1909,7 +868,12 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="391" max-vertical-offset="748">
           <caret line="23" column="57" selection-start-line="23" selection-start-column="57" selection-end-line="23" selection-end-column="57" />
-          <folding />
+          <folding>
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1967,19 +931,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/client/gui/GuiFactory.java">
+    <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
-          <caret line="16" column="33" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#401#402#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-            <element signature="e#554#555#0" expanded="true" />
-            <element signature="e#658#659#0" expanded="true" />
-            <element signature="e#685#686#0" expanded="true" />
-          </folding>
+        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1311">
+          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1993,34 +949,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/MakingAnMCMod.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/client/gui/GuiFactory.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="578">
-          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
-          <folding />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#401#402#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+            <element signature="e#554#555#0" expanded="true" />
+            <element signature="e#658#659#0" expanded="true" />
+            <element signature="e#685#686#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/build.gradle">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/util/LogHelper.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="255" max-vertical-offset="1311">
-          <caret line="23" column="11" selection-start-line="23" selection-start-column="11" selection-end-line="23" selection-end-column="11" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1102">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#368#369#0" expanded="true" />
+            <element signature="e#406#407#0" expanded="true" />
+            <element signature="e#457#458#0" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#548#549#0" expanded="true" />
+            <element signature="e#588#589#0" expanded="true" />
+            <element signature="e#639#640#0" expanded="true" />
+            <element signature="e#679#680#0" expanded="true" />
+            <element signature="e#729#730#0" expanded="true" />
+            <element signature="e#768#769#0" expanded="true" />
+            <element signature="e#817#818#0" expanded="true" />
+            <element signature="e#855#856#0" expanded="true" />
+            <element signature="e#906#907#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#996#997#0" expanded="true" />
+            <element signature="e#1035#1036#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/MakingAnMCMod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="741">
+          <caret line="26" column="70" selection-start-line="26" selection-start-column="70" selection-end-line="26" selection-end-column="70" />
+          <folding>
+            <element signature="e#1209#1210#0" expanded="true" />
+            <element signature="e#1267#1268#0" expanded="true" />
+            <element signature="e#1351#1352#0" expanded="true" />
+            <element signature="e#1414#1415#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/ref/ref.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="304">
+          <caret line="5" column="48" selection-start-line="5" selection-start-column="48" selection-end-line="5" selection-end-column="48" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/handler/ConfigHandler.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="665">
-          <caret line="28" column="0" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+          <caret line="19" column="32" selection-start-line="19" selection-start-column="32" selection-end-line="19" selection-end-column="32" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/ref/ref.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/T3hDud3/MakingAnMCMod/item/MAMCMItem.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.25632378" vertical-offset="0" max-vertical-offset="593">
-          <caret line="8" column="101" selection-start-line="8" selection-start-column="101" selection-end-line="8" selection-end-column="101" />
+        <state vertical-scroll-proportion="0.22428331" vertical-offset="0" max-vertical-offset="593">
+          <caret line="7" column="8" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="8" />
           <folding />
         </state>
       </provider>
