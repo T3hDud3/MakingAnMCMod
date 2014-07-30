@@ -1,12 +1,12 @@
-[21:02:18] [main/INFO]: Setting user: ForgeDevName
-[21:02:19] [Client thread/INFO]: LWJGL Version: 2.9.1
-[21:02:19] [Client thread/ERROR]: Couldn't initialize twitch stream
-[21:02:23] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Making An MC Mod
-[21:02:23] [Sound Library Loader/INFO]: Sound engine started
-[21:02:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:02:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:02:24] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Making An MC Mod
-[21:02:24] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[21:02:24] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[21:02:25] [Sound Library Loader/INFO]: Sound engine started
-[21:03:24] [Client thread/INFO]: Stopping!
+[09:24:53] [main/INFO]: Setting user: ForgeDevName
+[09:24:54] [Client thread/INFO]: LWJGL Version: 2.9.1
+[09:24:55] [Client thread/ERROR]: Couldn't initialize twitch stream
+[09:25:00] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Making An MC Mod
+[09:25:00] [Sound Library Loader/INFO]: Sound engine started
+[09:25:02] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[09:25:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[09:25:02] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Making An MC Mod
+[09:25:02] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[09:25:03] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[09:25:03] [Sound Library Loader/INFO]: Sound engine started
+[09:25:26] [Client thread/INFO]: Stopping!
